@@ -2,13 +2,23 @@
 
 ## 🎯 Overview
 
-CBRE Blueprint Analyzer is an enterprise-grade AI application designed
+Blueprint Analyzer is an enterprise-grade AI application designed
 for analyzing architectural blueprints using advanced AI vision
 technologies such as FastAPI, LangChain, OpenAI GPT‑4o Vision, and
 Streamlit.
 
 It provides instant, detailed, and conversational analysis of floor
 plans and construction documents.
+
+
+![AI BluePrint Analyzer – Main dashboard and overview](https://github.com/Kartik-324/AI_BluePrint_Analyzer/blob/ba5240b99c1e515a8fc6ed0c02dcd4673e656516/Screenshot%202025-12-11%20141938.png)
+
+![AI BluePrint Analyzer – Blueprint input and analysis setup](https://github.com/Kartik-324/AI_BluePrint_Analyzer/blob/ba5240b99c1e515a8fc6ed0c02dcd4673e656516/Screenshot%202025-12-11%20113655.png)
+
+![AI BluePrint Analyzer – Analysis in progress and results preview](https://github.com/Kartik-324/AI_BluePrint_Analyzer/blob/ba5240b99c1e515a8fc6ed0c02dcd4673e656516/Screenshot%202025-12-11%20113749.png)
+
+![AI BluePrint Analyzer – Final insights and recommendations screen](https://github.com/Kartik-324/AI_BluePrint_Analyzer/blob/ba5240b99c1e515a8fc6ed0c02dcd4673e656516/Screenshot%202025-12-11%20113801.png)
+
 
 ------------------------------------------------------------------------
 
