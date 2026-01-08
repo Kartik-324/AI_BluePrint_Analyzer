@@ -16,7 +16,7 @@ plans and construction documents.
 ![AI BluePrint Analyzer – Blueprint input and analysis setup](https://github.com/Kartik-324/AI_BluePrint_Analyzer/blob/ba5240b99c1e515a8fc6ed0c02dcd4673e656516/Screenshot%202025-12-11%20113655.png)
 
 
-![AI BluePrint Analyzer – Blueprint input and analysis setup](https://github.com/Kartik-324/AI_BluePrint_Analyzer/blob/ba5240b99c1e515a8fc6ed0c02dcd4673e656516/Screenshot%202025-12-11%20113655.png)
+![AI BluePrint Analyzer – Blueprint input and analysis setup](https://github.com/Kartik-324/AI_BluePrint_Analyzer/blob/0f64fcfa93379c3db15cebda36e865e44658caed/Screenshot%202025-12-11%20113704.png)
 
 
 
