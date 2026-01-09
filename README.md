@@ -1,8 +1,8 @@
-# 🏢 CBRE Blueprint Analyzer
+# 🏢 AI Blueprint Analyzer
 
 ## 🎯 Overview
 
-Blueprint Analyzer is an enterprise-grade AI application designed
+AI Blueprint Analyzer is an enterprise-grade AI application designed
 for analyzing architectural blueprints using advanced AI vision
 technologies such as FastAPI, LangChain, OpenAI GPT‑4o Vision, and
 Streamlit.
