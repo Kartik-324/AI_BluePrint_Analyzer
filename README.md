@@ -312,3 +312,10 @@ AI-generated results should be verified by licensed professionals.
 -   Ask clear questions\
 -   Verify complex outputs
 
+------------------------------------------------------------------------
+## 📄 License
+
+This project is protected under a restrictive license.
+The source code is shared for viewing and evaluation purposes only.
+Any reuse or commercial use requires explicit permission.
+
